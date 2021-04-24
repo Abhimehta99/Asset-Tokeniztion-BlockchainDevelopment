@@ -1,0 +1,41 @@
+
+body {
+  background-color: rgb(255, 255, 255);
+  background-position: center;
+  background-size: cover;
+}
+.container {
+  position: relative;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.5);
+  width: 830px;
+  height: 380px;
+  margin:10% auto;
+  background-color: rgb(177, 245, 230);
+  border-radius: 5px;
+  display: block;
+  text-align: center;
+  justify-self: center;
+}
+
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+} */
